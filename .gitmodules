@@ -1,0 +1,3 @@
+[submodule "submodules/Test_Child"]
+	path = submodules/Test_Child
+	url = https://github.com/Lakusan/Test_Child.git
